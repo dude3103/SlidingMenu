@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Szene 38</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="imgdesc">imgdesc</string>
+    <string name="wait">Gleich geht es weiter....</string>
+    <!-- Title -->
+    <string-array name="titles">
+        <item>Startseite</item>
+        <item>News</item>
+        <item>Locations</item>
+        <item>Events</item>
+        <item>Foto`s</item>
+        <item>Service</item>
+        <item>Kontakt</item>
+        <item>Konzert Kasse</item>
+    </string-array>
+    <!-- Page Url -->
+    <string-array name="pageurl">
+        <item>http://szene38.de/</item>
+        <item>http://szene38.de/news/</item>
+        <item>http://szene38.de/events/</item>
+        <item>http://szene38.de/events/</item>
+        <item>http://szene38.de/fotos/</item>
+        <item>http://szene38.de/services/</item>
+        <item>http://szene38.de/impressum-kontakt/</item>
+        <item>http://konzertkasse.de/mobile/?SiteID=100</item>
+
+    </string-array>
+    <!-- Icons -->
+    <array name="icons">
+        <item>@drawable/home</item>
+        <item>@drawable/news</item>
+        <item>@drawable/loca</item>
+        <item>@drawable/events</item>
+        <item>@drawable/fotos</item>
+        <item>@drawable/services</item>
+        <item>@drawable/pen</item>
+        <item>@drawable/kasse</item>
+
+    </array>
+
+</resources>
